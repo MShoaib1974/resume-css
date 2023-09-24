@@ -1,0 +1,51 @@
+ 
+
+h1{
+color: rgb(231, 230, 223);
+background-color: rgb(124, 177, 159);
+}
+
+body{
+    background-color: #15202B;
+}
+
+  li {
+    color: white;
+    
+}
+
+p {
+  color: rgb(75, 119, 139);
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .center {
+    text-align: center;
+  }
+
+
+  .center {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+
+
+  h2 {
+    color: rgb(28, 84, 92);
+    background-color: rgb(99, 176, 196);
+  }
+
+  img {
+    border-radius: 46%;
+  }
+
+  table {
+    color:rgb(76, 141, 125);
+  }
+  
